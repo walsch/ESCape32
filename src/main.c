@@ -18,7 +18,7 @@
 #include "common.h"
 
 #define REVISION 12
-#define REVPATCH 4
+#define REVPATCH 5
 
 const Cfg cfgdata = {
 	.id = 0x32ea,
